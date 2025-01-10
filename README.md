@@ -1,6 +1,7 @@
 # 👩‍💻 Azza Ibrahim  
 
 ## Electrical Engineering Student  
+
 ## AI & Data Science Enthusiast  
 
 Hello! I'm Azza, an electrical engineering student with a passion for AI,  
@@ -12,8 +13,10 @@ data science, and machine learning.
 
 - 🎓 **Education**:  
   Final-year Electrical Engineering student.  
+
 - 💡 **Interests**:  
   AI, data science, machine learning, and low-resource language processing.  
+
 - 📚 **Learning**:  
   Exploring transfer learning, large language models, and AI ethics.  
 
@@ -27,12 +30,14 @@ data science, and machine learning.
   - C  
   - HTML  
   - CSS  
+
 - **Tools & Frameworks**:  
   - VS Code  
   - GitHub  
   - TensorFlow  
   - PyTorch  
   - Fairseq  
+
 - **Other Skills**:  
   - Data Analysis  
   - Technical Writing  
@@ -44,6 +49,7 @@ data science, and machine learning.
 
 - 💌 **Email**:  
   [azzah31@outlook.com](mailto:azzah31@outlook.com)  
+
 - 🌐 **LinkedIn**:  
   [Azza Jailani](https://www.linkedin.com/in/azza-jailani-9b138b234/)  
 
