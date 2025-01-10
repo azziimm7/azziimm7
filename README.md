@@ -1,16 +1,19 @@
 # 👩‍💻 Azza Ibrahim  
 
-### Electrical Engineering Student | AI & Data Science Enthusiast  
+## Electrical Engineering Student | AI & Data Science Enthusiast  
 
-Hello! I'm Azza, an electrical engineering student with a passion for AI, data science, and machine learning.  
+Hello! I'm Azza, an electrical engineering student with a passion for AI, data science, and machine learning.
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 **Education**: Final-year Electrical Engineering student.  
-- 💡 **Interests**: AI, data science, machine learning, and low-resource language processing.  
-- 📚 **Learning**: Exploring transfer learning, large language models, and AI ethics.  
+- 🎓 **Education**:  
+  Final-year Electrical Engineering student.  
+- 💡 **Interests**:  
+  AI, data science, machine learning, and low-resource language processing.  
+- 📚 **Learning**:  
+  Exploring transfer learning, large language models, and AI ethics.  
 
 ---
 
@@ -37,13 +40,16 @@ Hello! I'm Azza, an electrical engineering student with a passion for AI, data s
 
 ## 📬 Contact Me  
 
-- 💌 **Email**: [azzah31@outlook.com](mailto:azzah31@outlook.com)  
-- 🌐 **LinkedIn**: [Azza Jailani](https://www.linkedin.com/in/azza-jailani-9b138b234/)  
+- 💌 **Email**:  
+  [azzah31@outlook.com](mailto:azzah31@outlook.com)  
+- 🌐 **LinkedIn**:  
+  [Azza Jailani](https://www.linkedin.com/in/azza-jailani-9b138b234/)  
 
 ---
 
-### 🌟 Quote  
+## 🌟 Quote  
 
 > *“Learning never exhausts the mind.” – Leonardo da Vinci*  
 
-Feel free to explore my repositories, contribute, or connect with me. Let's build something amazing together!  
+Feel free to explore my repositories, contribute, or connect with me.  
+Let's build something amazing together!
