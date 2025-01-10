@@ -1,8 +1,10 @@
 # 👩‍💻 Azza Ibrahim  
 
-## Electrical Engineering Student | AI & Data Science Enthusiast  
+## Electrical Engineering Student  
+## AI & Data Science Enthusiast  
 
-Hello! I'm Azza, an electrical engineering student with a passion for AI, data science, and machine learning.
+Hello! I'm Azza, an electrical engineering student with a passion for AI,  
+data science, and machine learning.
 
 ---
 
