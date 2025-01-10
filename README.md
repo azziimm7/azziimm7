@@ -1,8 +1,8 @@
 # 👩‍💻 Azza Ibrahim  
 
-### **Electrical Engineering Student | AI & Data Science Enthusiast | Final Year Project: Low-Resource Language Translation**  
+### Electrical Engineering Student | AI & Data Science Enthusiast  
 
-Hello! I'm Azza, an electrical engineering student with a passion for AI, data science, and machine learning.
+Hello! I'm Azza, an electrical engineering student with a passion for AI, data science, and machine learning.  
 
 ---
 
@@ -16,9 +16,22 @@ Hello! I'm Azza, an electrical engineering student with a passion for AI, data s
 
 ## 🛠️ Skills  
 
-- **Programming Languages**: Python, JavaScript, C, HTML, CSS  
-- **Tools & Frameworks**: VS Code, GitHub, TensorFlow, PyTorch, Fairseq  
-- **Other Skills**: Data Analysis, Technical Writing, Machine Learning  
+- **Programming Languages**:  
+  - Python  
+  - JavaScript  
+  - C  
+  - HTML  
+  - CSS  
+- **Tools & Frameworks**:  
+  - VS Code  
+  - GitHub  
+  - TensorFlow  
+  - PyTorch  
+  - Fairseq  
+- **Other Skills**:  
+  - Data Analysis  
+  - Technical Writing  
+  - Machine Learning  
 
 ---
 
@@ -29,6 +42,8 @@ Hello! I'm Azza, an electrical engineering student with a passion for AI, data s
 
 ---
 
-### 🌟 *“Learning never exhausts the mind.”* – Leonardo da Vinci  
+### 🌟 Quote  
 
-Feel free to explore my repositories, contribute, or connect with me. Let's build something amazing together!
+> *“Learning never exhausts the mind.” – Leonardo da Vinci*  
+
+Feel free to explore my repositories, contribute, or connect with me. Let's build something amazing together!  
